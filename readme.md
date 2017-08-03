@@ -1,4 +1,5 @@
-# PCF .NET Demo
+# Repo DotNet-Wksp1 - 
+# This is  a PCF .NET Demo involves multiple frameworks
 This solution demonstrates the use of multiple microservices built using multiple .NET technologies and running on PCF. The primary goal is to show that PCF can handle legacy code that existed as early as .NET version 1.0, with common stacks introduced as part of .NET framework up to the newest .NET core application. The solution demonstrates a natural progression / evolution that a customer would take towards making their apps cloud native.
 
 Technical Features Demonstrated:
